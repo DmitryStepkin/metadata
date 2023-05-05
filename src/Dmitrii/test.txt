@@ -3,3 +3,5 @@
 Hi everyone!!!
 
 Added new bug report
+
+Testing the app
