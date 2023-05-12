@@ -11,4 +11,6 @@ public class Jelena_Practice {
     // new things
 
     // learning
+
+    // adding notes to Dima
 }
